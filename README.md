@@ -11,7 +11,7 @@ Create and edit Ableton Live MIDI clips locally.
 | Mac — Apple Silicon | [Download for Apple Silicon](https://github.com/Jaredmf/ALC-Generator-Releases/releases/latest/download/ALC-Generator-mac-Apple-Silicon.dmg) |
 | Mac — Intel | [Download for Intel](https://github.com/Jaredmf/ALC-Generator-Releases/releases/latest/download/ALC-Generator-mac-Intel.dmg) |
 
-These links download the latest published release. Downloads become available after the first release is published.
+These links download the latest published release.
 
 On Mac, open the DMG and drag ALC Generator into Applications. On Windows, run the installer, or choose the portable app to run without installing.
 
